@@ -5,7 +5,7 @@ import Profile from './components/Profile';
 
 function App() {
   return (
-    <> 
+    <>
       <RegisterButton />
       <Profile />
     </>
